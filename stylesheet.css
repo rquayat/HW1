@@ -1,4 +1,13 @@
-body {
+<html>
+	<head>
+	<title> Test Page </title>
+	<link rel="stylesheet" type="text/css" href="style.css" />
+
+<body>
+h1 { text-align:center; font-weight:bold; font-style:italic; }
+<h1> 6K:183 </h1>
+
+{
 background: pink; font family: "Cosmic Sans MS"}
 <a href=”http://www.google.com”> Google </a>
 
